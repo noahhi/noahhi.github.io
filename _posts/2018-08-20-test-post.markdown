@@ -4,6 +4,6 @@ title:  "test post"
 date:   2018-08-20 22:05:18 -0400
 categories: jekyll update
 ---
-hey there
+hey there!
 ![my face](/images/zoe.jpg)
 this is a test post

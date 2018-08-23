@@ -39,3 +39,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+
+bundle show minima - to find default directories for minima theme.
+jekyll build, jekyll serve - to build and show the site

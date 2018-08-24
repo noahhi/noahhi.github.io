@@ -10,5 +10,3 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a jun
   <img src="/images/me_outside.jpg" width="350"/>
   <img src="/images/family.jpg" width="350"/>  
 </p>
-
-![Zoe](/images/zoe.jpg)

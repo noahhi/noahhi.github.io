@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Favorite Quotes"
-date:   2018-08-22 22:05:18 -0400
+date:   2018-08-22
 categories: regular post
 ---
 Here are some of my favorite quotes from..

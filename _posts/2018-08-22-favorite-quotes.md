@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Favorite Quotes"
+title:  "Quotes"
 date:   2018-08-22
 categories: regular post
 ---

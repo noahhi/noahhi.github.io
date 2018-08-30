@@ -44,3 +44,6 @@ You can find the source code for Jekyll at GitHub:
 bundle show minima - to find default directories for minima theme.
 -its here - C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/minima-2.5.0
 jekyll build, jekyll serve - to build and show the site
+
+
+UA-124920674-1 - google analytics tracking id 

@@ -2,6 +2,7 @@
 layout: page
 title: Photos
 permalink: /photos/
+published: no
 ---
 
 # I take a lot of photos. Here are some of my favorites.

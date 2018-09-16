@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Noah's Very Own Website
+title: Noah Hunt-Isaak's Personal Website/Blog 
 email: noahhuntisaak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Noah Hunt-Isaak. Even for the internet, its pretty shocking.
@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
 
 # Google Analytics
-google_analytics: UA-124920674-1 
+google_analytics: UA-124920674-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

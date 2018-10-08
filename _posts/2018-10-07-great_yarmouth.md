@@ -5,7 +5,7 @@ date:   2018-10-07
 categories: regular post
 comments: true
 ---
-On Saturday (Oct. 6) I went to a town on the east coast of England called Great Yarmouth with Sam, Lauren, and Adele (all from the DSON Sciences program). We got there by taking the bus into Norwich and then from there about a 45 minute train ride to Great Yarmouth. It was rainy, windy and very cold, perfect beach weather! Fortunately this meant we got the whole beach to ourselves, but unfortunately it was too cold to swim. We ate fish n chips, went shopping, got pumpkin spice lattes and shivered a lot. 
+On Saturday (Oct. 6) I went to a town on the east coast of England called Great Yarmouth with Sam, Lauren, and Adele (all from the DSON Sciences program). We got there by taking the bus into Norwich and then from there about a 45 minute train ride to Great Yarmouth. It was rainy, windy and very cold, perfect beach weather! Fortunately this meant we got the whole beach to ourselves, but unfortunately it was too cold to swim. We ate fish n chips, went shopping, got pumpkin spice lattes and shivered a lot.
 
 # Random Things:
 * I walked into an automatic door which was too slow for me
@@ -13,6 +13,7 @@ On Saturday (Oct. 6) I went to a town on the east coast of England called Great 
 * Tore it up at Table Tennis society
 * Gaining appreciation for DSON/ smaller school
 * Mac n cheese and microwave popcorn are not things here!?
+* Check out my new 'Project' and 'Music' Pages
 
 <div>
 

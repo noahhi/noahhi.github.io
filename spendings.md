@@ -2,11 +2,12 @@
 layout: page
 title: Spendings
 permalink: /spendings/
+published: no
 ---
 <html>
   <head></head>
   <body>
- TESTING STUFF 
+ TESTING STUFF
     <!--
     BEFORE RUNNING:
     ---------------

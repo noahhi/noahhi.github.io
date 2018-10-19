@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <script type="text/javascript" src="/libraries/processing.js"></script>
 
-Here are some of my earliest coding projects. I made these all with the Processing language, which is essentially a Java library designed for creating visuals/animation. I learned to code with this language during my senior year of high school, here are some of the highlights of things I made.
+Here are some of my earliest coding projects. I made these all with a programming language called <a href="https://processing.org/">Processing</a>, which is "a flexible software sketchbook and a language for learning how to code within the context of the visual arts" (built on top of Java). I learned to code with this language during my senior year of high school which is when I made most of these sketches. For more check out two earlier versions of my website; <a href="http://gymnastictoast.github.io/">my first site</a> and <a href="https://gymnastictoast.github.io/New-Website/index.html">my second site</a> or my page on <a href="http://studio.sketchpad.cc/sp/padlist/edited-by?editorId=21077">Studio Sketch Pad</a> where I originally published all of my Processing sketches.
 
 # Avoid the Circles Game
 <canvas data-processing-sources="/pde/avoidCircles.pde"></canvas>
@@ -13,7 +13,7 @@ Here are some of my earliest coding projects. I made these all with the Processi
 # Platformer Game
 <canvas data-processing-sources="/pde/Platformer.pde"></canvas>
 
-# "Art"
+# Animation/Art (click to pause)
 <canvas data-processing-sources="/pde/crazyRotation.pde"></canvas>
 <canvas data-processing-sources="/pde/waves.pde"></canvas>
 <canvas data-processing-sources="/pde/tendrils.pde"></canvas>

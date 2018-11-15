@@ -22,7 +22,9 @@ layout: default
               {{ post.title | escape }}
             </a>
           {%- else -%}
-            <a class="post-link" href="{{ post.url | relative_url }}" style="text-shadow: 1px 1px 1px black;color:red;">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+            <!-- use this to change color of post link from home page
+             <a class="post-link" href="{{ post.url | relative_url }}" style="text-shadow: 1px 1px 1px black;color:red;"> -->
               {{ post.title | escape }}
             </a>
           {%- endif -%}

@@ -3,7 +3,7 @@ layout: post
 title:  "Last Days in London"
 date:   2018-09-14
 categories: regular post
-comments: true
+comments: false
 ---
 Today, Friday Sep 14th, was my last day in London. Over the past 2 weeks my classmates and I toured the **British Library**, the **London Science Museum**, the **Wellcome Library**, the **Royal Observatory**, the **Royal Society**, the **Museum of the History of Science**, the **Royal Institution**, the **Museum of London**, the **Old Operating Theatre**, **Down House**, the **Linnean Society**, the **National Portrait Gallery**, the **National Gallery**, the **National Museum of Computing**, **Bletchley Park**, the **Natural History Museum**, the **Bank of England Museum**, AND the **British Museum**, for a grand total of 17 museums in 15 days. Add to that a concert at the **Royal Albert Hall**, a play at **Shakespeare's Globe Theatre**, a walking tour of the **University of Oxford** and a **whole bunch of other stuff** and we had a very busy 2 weeks. My feet hurt (going on 3 5+ mile runs through London probably didn't help on that score) and the museums are beginning to blur together so its a bit of a relief to be moving on but it's bittersweet since there's still so much I didn't get a chance to see or do in this amazing city.  
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Great Yarmouth"
 date:   2018-10-07
 categories: regular post
-comments: true
+comments: false
 ---
 On Saturday (Oct. 6) I went to a town on the east coast of England called Great Yarmouth with Sam, Lauren, and Adele (all from the DSON Sciences program). We got there by taking the bus into Norwich and then from there about a 45 minute train ride to Great Yarmouth. It was rainy, windy and very cold, perfect beach weather! Fortunately this meant we got the whole beach to ourselves, but unfortunately it was too cold to swim. We ate fish n chips, went shopping, got pumpkin spice lattes and shivered a lot.
 

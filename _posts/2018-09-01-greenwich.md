@@ -4,6 +4,7 @@ title:  "Greenwich"
 date:   2018-09-01
 categories: regular post
 comments: false
+permalink: /greenwich/
 ---
 Today we went to Greenwich to see the Royal Observatory. A very enthusiastic, very British guy named Mike gave us a tour, and a history lesson on the Longitude problem and both its mechanical and astronomical solutions. Afterwards we took a boat tour down the Thames where we saw the Tower Bridge, the Eye of London, Shakespeare's Globe, and the Shard among other landmarks (although our tour guide preferred to focus his commentary on the plethora of shoreside pubs). Also I took lots of selfies.
 

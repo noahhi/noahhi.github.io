@@ -4,6 +4,7 @@ title:  "UEA Orientation"
 date:   2018-09-30
 categories: regular post
 comments: false
+permalink: /uea/
 ---
 I arrived at The University of East Anglia on Wednesday, Sep 19. After some quick registration tasks I got my room key and walked ~19 thousand miles (their campus is easily x3 the size of Dickinson's) to the University village where my room is. I live in a flat with 8 people, we all share a kitchen but have our own rooms with a (tiny) bathroom. We don't have an oven and only 2 mini fridges for 8 people is a bit sparse but we've made it work so far.  
 

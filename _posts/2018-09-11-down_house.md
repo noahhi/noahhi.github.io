@@ -4,6 +4,7 @@ title:  "Down House (+lots of other stuff)"
 date:   2018-09-11
 categories: regular post
 comments: false
+permalink: /down-house/
 ---
 Whoops missed a bunch of days. No time for paragraphs so here are bullets and a few photos of everything I've been up to..
 ## Friday (Sep 7)

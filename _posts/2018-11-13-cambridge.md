@@ -4,6 +4,7 @@ title:  "Cambridge"
 date:   2018-11-13
 categories: regular post
 comments: false
+permalink: /cambridge/
 ---
 
 We had a reunion with our Science group on Saturday for a daytrip to Cambridge. The train left Norwich painfully early. Once we arrived we got a walking tour by a guy named Mike. Mike took us around the city and through one of the colleges (Cambridge runs on the same college system as Oxford). We stopped at the Eagle which is the self proclaimed "most famous pub in Cambridge", where Watson and Crick used to hangout and talk about DNA. We ended up on the Scholar's lawn outside Trinity college where we saw a bunch of people punting down the river. We briefly went in the Wren library and then had the afternoon free to explore. I went (with Sam, Lauren and Adele) to find lunch in an outdoor marketplace where I found the most amazing waffle shop. Afterwards we visited the museum of Zoology and then the Fitzwilliam art museum. We wanted to go punting after that but it was pouring rain so we ran to the train station and headed back to Norwich.

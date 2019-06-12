@@ -2,7 +2,7 @@
 layout: post
 title:  "Greenwich"
 date:   2018-09-01
-categories: regular post
+categories: abroad post
 comments: false
 permalink: /greenwich/
 ---

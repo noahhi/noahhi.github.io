@@ -2,7 +2,7 @@
 layout: post
 title:  "UEA Orientation"
 date:   2018-09-30
-categories: regular post
+categories: abroad post
 comments: false
 permalink: /uea/
 ---

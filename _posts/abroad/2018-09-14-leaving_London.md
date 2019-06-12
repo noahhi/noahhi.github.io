@@ -2,7 +2,7 @@
 layout: post
 title:  "Last Days in London"
 date:   2018-09-14
-categories: regular post
+categories: abroad post
 comments: false
 permalink: /leaving-london/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cambridge"
 date:   2018-11-13
-categories: regular post
+categories: abroad post
 comments: false
 permalink: /cambridge/
 ---

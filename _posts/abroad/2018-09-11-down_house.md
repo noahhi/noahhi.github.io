@@ -2,7 +2,7 @@
 layout: post
 title:  "Down House (+lots of other stuff)"
 date:   2018-09-11
-categories: regular post
+categories: abroad post
 comments: false
 permalink: /down-house/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Great Yarmouth"
 date:   2018-10-07
-categories: regular post
+categories: abroad post
 comments: false
 permalink: /yarmouth/
 ---

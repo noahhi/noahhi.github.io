@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: no
 ---
 
 Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a senior Math and Computer Science double major at Dickinson college. Below is me and my family.
@@ -14,6 +15,12 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a sen
 # Cool Sites
 
 <a href="https://deepdreamgenerator.com/">Deep dream generator</a>
+
+<a href="http://www.whichfaceisreal.com/">Which face is real</a>
+
+<a href="https://bostonstupidhackathon.com/2017/zippable-banana.jpg">Zippable banana</a>
+
+<a href="http://stars.chromeexperiments.com/">100,000 stars</a>
 
 # Random Links
 

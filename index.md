@@ -6,8 +6,8 @@ layout: home
 Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a rising senior, Math and Computer Science double major, at Dickinson college. Below is me and my family.
 
 <p float="left">
-  <img src="/images/about/me_outside.jpg" width="350"/>
-  <img src="/images/about/family.jpg" width="350"/>  
+  <img src="/images/about/me_outside.jpg" width="350" height="290"/>
+  <img src="/images/about/family.jpg" width="350" height="290"/>  
 </p>
 
 

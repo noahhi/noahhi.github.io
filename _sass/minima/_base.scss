@@ -16,8 +16,10 @@ body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: $background-color;
+  background-size: auto;
   //background-image: linear-gradient(red, yellow);
   background-image: url('../images/seigaiha.png');
+  //background-image: url('../images/sky bg.jpg');
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;

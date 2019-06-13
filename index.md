@@ -23,8 +23,10 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a ris
 
 <a href="http://www.whichfaceisreal.com/">Which face is real</a>
 
-<a href="http://stars.chromeexperiments.com/">100,000 stars</a>
+
 
 <!--
 <a href="https://bostonstupidhackathon.com/2017/zippable-banana.jpg">Zippable banana</a>
+
+<a href="http://stars.chromeexperiments.com/">100,000 stars</a>
 -->

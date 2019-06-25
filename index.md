@@ -7,6 +7,7 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a ris
 
 <p float="left">
   <img src="/images/about/me_outside.jpg" width="350" height="290"/>
+  <!--<img src="/images/portrait.jpg" width="350" height="290"/>-->
   <img src="/images/about/family.jpg" width="350" height="290"/>  
 </p>
 

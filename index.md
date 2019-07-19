@@ -25,6 +25,9 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a ris
 
 <a href="http://www.whichfaceisreal.com/">Which face is real</a>
 
+<a href="https://www.tylervigen.com/spurious-correlations">Spurious correlations</a>
+
+<a href="https://applymagicsauce.com/demo">Apply Magic Sauce</a>
 
 
 <!--

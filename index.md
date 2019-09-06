@@ -13,13 +13,9 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a ris
 </p>
 
 
-## Random Links
-
-<a href="https://gymnastictoast.github.io/New-Website/index.html">Previous version of my website</a>
-
-<a href="/pdfs/resume 2019.pdf" download>Download my Resume</a>
-
 ## Cool Sites
+
+<a href="https://moltensalttech.com/">Molten Salt Tech</a> <-- My friend started a company!
 
 <a href="https://deepdreamgenerator.com/">Deep dream generator</a>
 
@@ -29,6 +25,11 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a ris
 
 <a href="https://applymagicsauce.com/demo">Apply Magic Sauce</a>
 
+## Other Stuff
+
+<a href="https://gymnastictoast.github.io/New-Website/index.html">Previous version of my website</a>
+
+<a href="/pdfs/resume 2019.pdf" download>Download my Resume</a>
 
 <!--
 <a href="https://bostonstupidhackathon.com/2017/zippable-banana.jpg">Zippable banana</a>

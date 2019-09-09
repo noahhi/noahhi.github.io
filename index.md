@@ -17,7 +17,7 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a ris
 
 <a href="https://moltensalttech.com/">Molten Salt Tech</a> <-- My friend started a company!
 
-<a href="https://math.mit.edu/~drew/"> <-- The answer to Life, the Universe, and Everything
+<a href="https://share.cocalc.com/share/900eec7e-0710-4e2f-a03a-dba01ca9bd8e/TheUltipmateQuestion.ipynb?viewer=share">The answer to Life, the Universe, and Everything</a>
 
 <a href="https://deepdreamgenerator.com/">Deep dream generator</a>
 

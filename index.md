@@ -29,8 +29,6 @@ Hey there! My name is Noah Hunt-Isaak and this is my personal website. I'm a ris
 
 ## Other Stuff
 
-<a href="https://gymnastictoast.github.io/New-Website/index.html">Previous version of my website</a>
-
 <a href="/pdfs/resume 2019.pdf" download>Download my Resume</a>
 
 <!--

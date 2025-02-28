@@ -5,5 +5,6 @@
 layout: abroad
 title: Abroad Blog
 permalink: /abroad/
+published: no
 ---
 I studied abroad in England at the University of East Anglia (UEA) for the Fall semester of my junior year. I decided to maintain a blog documenting my experiences, here are all of the posts I made.
